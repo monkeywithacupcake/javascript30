@@ -1,8 +1,11 @@
 # javascript30
 This repo is my trip through [Wes Bos javascript30](https://javascript30.com/). I'm starting on 22Feb2018.
 
+## Day 4
+Data wrangling with array functions. Yay. I already knew most of these. My use of other languages instead of javascript for most of these functions made me screw up a little bit at first, but I was able to figure it out mostly. Learned some pretty tricks for reduce, though.
+
 ## Day 3
-Updates css variables based on user input and applies them to elements on the page. I copied the starter code into my index.html and style.css, created a new js file, and updated the css and wrote the js while watching the video. I had no idea about css variables, so the whole thing was new to me. The actual setup of this file is testy to the screen it is rendered on, so it did not work for me when I was looking at my javascript console, but I did not update it. I'm excited to learn about css variables. 
+Updates css variables based on user input and applies them to elements on the page. I copied the starter code into my index.html and style.css, created a new js file, and updated the css and wrote the js while watching the video. I had no idea about css variables, so the whole thing was new to me. The actual setup of this file is testy to the screen it is rendered on, so it did not work for me when I was looking at my javascript console, but I did not update it. I'm excited to learn about css variables.
 
 ## Day 2
 Takes in the current time from js and updates the css clock image. I copied the starter code into my index.html and style.css, created a new js file, and updated the css and wrote the js while watching the video. I greatly prefer my files split up, but I understand why they are all on one page for these simple projects.  After he walked us through the seconds, I paused the video and wrote the minutes and hours alone and changed my `transition-timing-function` to `ease-in-out;` instead of the curve bezier, which seemed too jumpy on my screen. I was happy that it worked.
