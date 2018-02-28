@@ -1,6 +1,12 @@
 # javascript30
 This repo is my trip through [Wes Bos javascript30](https://javascript30.com/). I'm starting on 22Feb2018.
 
+## Day 7
+A little bit of array methods review. And...some cleaner code with fewer temporary variables. I like it.
+<p align="center">
+ <img src="/img/day7.png" alt="day7 end image")/>
+</p>
+
 ## Day 6
 Search and highlight matches from data. This was a simple data fetching and then quick updates to a page. I learned more ways to use regex and how to match while things are still going (listen for `keyup` instead of just `change`). I should have realized the match before because we used `keyup` for the drumkit on day 1. I also liked the css for this day even though we did not touch it at all. The accordion effect is simpler than I thought.
 
