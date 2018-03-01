@@ -1,6 +1,9 @@
 # javascript30
 This repo is my trip through [Wes Bos javascript30](https://javascript30.com/). I'm starting on 22Feb2018.
 
+## Day 8 (March 1)
+Learning about fundamentals of canvas. I followed along, but this never worked for me. I couldn't get any action even after copying the indexFINISHED js. I'm not sure why. :confounded:
+
 ## Day 7
 A little bit of array methods review. And...some cleaner code with fewer temporary variables. I like it.
 <p align="center">
