@@ -1,6 +1,9 @@
 # javascript30
 This repo is my trip through [Wes Bos javascript30](https://javascript30.com/). I'm starting on 22Feb2018.
 
+## Day 9
+The lesson was focused on some tips and tricks in the Javascript developer console. Most of these were new to me. Hooray for learning! Today I stopped splitting up the files. I just copied `index_START.html` into my `index.html` to do the work. 
+
 ## Day 8 (March 1)
 Learning about fundamentals of canvas. I followed along, but this never worked for me. I couldn't get any action even after copying the indexFINISHED js. I'm not sure why. :confounded:
 
