@@ -1,8 +1,11 @@
 # javascript30
 This repo is my trip through [Wes Bos javascript30](https://javascript30.com/). I'm starting on 22Feb2018.
 
+## Day 10
+Focus on writing a little function to consider the current action and an array and take another action. I should have just googled for shift key because it was making me crazy. I finally watched the rest of the video only to realize that it was `shiftKey`. I'll know for next time.
+
 ## Day 9
-The lesson was focused on some tips and tricks in the Javascript developer console. Most of these were new to me. Hooray for learning! Today I stopped splitting up the files. I just copied `index_START.html` into my `index.html` to do the work. 
+The lesson was focused on some tips and tricks in the Javascript developer console. Most of these were new to me. Hooray for learning! Today I stopped splitting up the files. I just copied `index_START.html` into my `index.html` to do the work.
 
 ## Day 8 (March 1)
 Learning about fundamentals of canvas. I followed along, but this never worked for me. I couldn't get any action even after copying the indexFINISHED js. I'm not sure why. :confounded:
