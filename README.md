@@ -1,6 +1,9 @@
 # javascript30
 This repo is my trip through [Wes Bos javascript30](https://javascript30.com/). I'm starting on 22Feb2018.
 
+## Day 11
+Build a custom interface for HTML5 video player because the defaults are not the same in each browser, change over time, and may not look how we like. I was not able to get any of my javascript to have an impact with the player. I think this is because I am using python to host an http.server, and I think that may have also been my problem with the canvas day. However, I watched the video and pasted the code that I hadn't been able to test and guess. The first parts, I had spot on :) It's a bummer when I can't test and learn. The little open source video that Wes picked here is pretty cute. Check it out!
+
 ## Day 10
 Focus on writing a little function to consider the current action and an array and take another action. I should have just googled for shift key because it was making me crazy. I finally watched the rest of the video only to realize that it was `shiftKey`. I'll know for next time.
 
