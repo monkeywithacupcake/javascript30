@@ -1,6 +1,13 @@
 # javascript30
 This repo is my trip through [Wes Bos javascript30](https://javascript30.com/). I'm starting on 22Feb2018.
 
+## Day 12
+How fun. Today, we learned how to add an easter egg when users present a secret code. Wes had us use the cornify.js script with the `cornify_add();` function to add random unicorns and rainbows as an example, but you could do anything. 
+
+<p align="center">
+ <img src="/img/day12.png" alt="day12 end image")/>
+</p>
+
 ## Day 11
 Build a custom interface for HTML5 video player because the defaults are not the same in each browser, change over time, and may not look how we like. I was not able to get any of my javascript to have an impact with the player. I think this is because I am using python to host an http.server, and I think that may have also been my problem with the canvas day. However, I watched the video and pasted the code that I hadn't been able to test and guess. The first parts, I had spot on :) It's a bummer when I can't test and learn. The little open source video that Wes picked here is pretty cute. Check it out!
 
