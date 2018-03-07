@@ -1,8 +1,41 @@
 # javascript30
 This repo is my trip through [Wes Bos javascript30](https://javascript30.com/). I'm starting on 22Feb2018.
 
+## Day 13
+Today's effort was to move images into the page view as the user scrolls. I did not particularly like the effect, but I imagine that it could be useful for catching when users are moving through your page quickly or are going to a particular space. I made a simple typo that neither my linter nor my console caught. I had typed 
+
+```
+const isNotScrolledPast = window.ScrollY < imageBottom;
+```
+
+in what was supposed to be this function.
+
+```
+function checkSlide(e) {
+    theImages.forEach(theImage => {
+        console.log(theImage.classList); // the image
+        // calculate where we need to start the image slide in at and where the bottom is
+        //const windowBottom = (window.scrollY + window.innerHeight)
+        const slideInAt =
+            window.scrollY + window.innerHeight - theImage.height / 2;
+        const imageBottom = theImage.offsetTop + theImage.height;
+        const isHalfShown = slideInAt > theImage.offsetTop;
+        const isNotScrolledPast = window.scrollY < imageBottom;
+        if (isHalfShown && isNotScrolledPast) {
+            theImage.classList.add('active');
+            console.log("show");
+        } else {
+            theImage.classList.remove('active');
+            console.log("unshow")
+        }
+    });
+}
+```
+
+Did you see it? Yep. I had capitalized the *S* in scrollY. Good reminder - You have to catch your own mistakes!
+
 ## Day 12
-How fun. Today, we learned how to add an easter egg when users present a secret code. Wes had us use the cornify.js script with the `cornify_add();` function to add random unicorns and rainbows as an example, but you could do anything. 
+How fun. Today, we learned how to add an easter egg when users present a secret code. Wes had us use the cornify.js script with the `cornify_add();` function to add random unicorns and rainbows as an example, but you could do anything.
 
 <p align="center">
  <img src="/img/day12.png" alt="day12 end image")/>
