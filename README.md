@@ -1,11 +1,19 @@
 # javascript30
 This repo is my trip through [Wes Bos javascript30](https://javascript30.com/). I'm starting on 22Feb2018.
 
+## Day 15
+Super helpful explanation of event delegation and local storage. I use local storage for JWT on apps, and it was fun to use it for something else. However, the explanation of event delegation with responsible parents and negligent children was awesome :smile:
+Side note, the idea to change the checkbox to something besides a traditional checkbox, in this case tacos, with css, was neat.
+
+<p align="center">
+ <img src="/img/day15.png" alt="day15 end image")/>
+</p>
+
 ## Day 14
 A little bit of a reminder that you have to be careful with what is in your data. Do you have a copy of the data, or are you pointing to the data? One of the things that you remember when making action creators for flow or redux design is that you never, never, never change the state, just return a new state - preventing the issue that you might mess it up.
 
 ## Day 13
-Today's effort was to move images into the page view as the user scrolls. I did not particularly like the effect, but I imagine that it could be useful for catching when users are moving through your page quickly or are going to a particular space. I made a simple typo that neither my linter nor my console caught. I had typed 
+Today's effort was to move images into the page view as the user scrolls. I did not particularly like the effect, but I imagine that it could be useful for catching when users are moving through your page quickly or are going to a particular space. I made a simple typo that neither my linter nor my console caught. I had typed
 
 ```
 const isNotScrolledPast = window.ScrollY < imageBottom;
