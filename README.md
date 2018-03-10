@@ -1,6 +1,9 @@
 # javascript30
 This repo is my trip through [Wes Bos javascript30](https://javascript30.com/). I'm starting on 22Feb2018.
 
+## Day 16
+Cool effects with movement of the mouse.
+
 ## Day 15
 Super helpful explanation of event delegation and local storage. I use local storage for JWT on apps, and it was fun to use it for something else. However, the explanation of event delegation with responsible parents and negligent children was awesome :smile:
 Side note, the idea to change the checkbox to something besides a traditional checkbox, in this case tacos, with css, was neat.
