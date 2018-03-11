@@ -1,6 +1,9 @@
 # javascript30
 This repo is my trip through [Wes Bos javascript30](https://javascript30.com/). I'm starting on 22Feb2018.
 
+## Day 17
+Sorting an array by something besides the first thing. We used band names and sorted them without the initial article. Since I've spent most of my coding days dealing with ugly data, this was a trick I already knew, but it was fun to use band names. 
+
 ## Day 16
 Cool effects with movement of the mouse.
 
