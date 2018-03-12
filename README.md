@@ -1,8 +1,11 @@
 # javascript30
 This repo is my trip through [Wes Bos javascript30](https://javascript30.com/). I'm starting on 22Feb2018.
 
+## Day 18
+Dealing with data that is not in the format that you like. The example is focused on string times, doing math, and getting an output. Array methods of reduce and map are used. Very useful for messy data.
+
 ## Day 17
-Sorting an array by something besides the first thing. We used band names and sorted them without the initial article. Since I've spent most of my coding days dealing with ugly data, this was a trick I already knew, but it was fun to use band names. 
+Sorting an array by something besides the first thing. We used band names and sorted them without the initial article. Since I've spent most of my coding days dealing with ugly data, this was a trick I already knew, but it was fun to use band names.
 
 ## Day 16
 Cool effects with movement of the mouse.
