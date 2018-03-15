@@ -1,11 +1,14 @@
 # javascript30
 This repo is my trip through [Wes Bos javascript30](https://javascript30.com/). I'm starting on 22Feb2018.
 
+## Day 21
+Geolocation!! After spending a lot of time working with geolocation through the Google Maps API and with Swift, I thought this explanation and approach was so simple. I used a similar approach for my weather app for free code camp. 
+
 ## Day 20
-Wow. 2/3 finished! Another one that did not work on my server, but I thought speech detection was cool, and I am surprised at how little code it takes!  
+Wow. 2/3 finished! Another one that did not work on my server, but I thought speech detection was cool, and I am surprised at how little code it takes!  FWIW - I also did the WesBos redux course today. That was a fun and useful diversion, but it is a little old, so I had to refactor on the fly. Check it out if you are doing redux work. It's quick. 
 
 ## Day 19
-Interact with user webcams. Interesting, and I'm not sure how to incorporate this. It would not work with my python http server. FWIW - I also did the WesBos redux course today. That was a fun and useful diversion, but it is a little old, so I had to refactor on the fly. Check it out if you are doing redux work. It's quick. 
+Interact with user webcams. Interesting, and I'm not sure how to incorporate this. It would not work with my python http server. 
 
 ## Day 18
 Dealing with data that is not in the format that you like. The example is focused on string times, doing math, and getting an output. Array methods of reduce and map are used. Very useful for messy data.
