@@ -1,6 +1,13 @@
 # javascript30
 This repo is my trip through [Wes Bos javascript30](https://javascript30.com/). I'm starting on 22Feb2018.
 
+## Day 23
+I forgot to push yesterday, so I am doing a double update today, I guess.
+Synthesizing different speech sounds today. It was neat. 
+
+## Day 22
+Highlighting links based on user interaction. 
+
 ## Day 21
 Geolocation!! After spending a lot of time working with geolocation through the Google Maps API and with Swift, I thought this explanation and approach was so simple. I used a similar approach for my weather app for free code camp. 
 
