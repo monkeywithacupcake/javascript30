@@ -1,6 +1,9 @@
 # javascript30
 This repo is my trip through [Wes Bos javascript30](https://javascript30.com/). I'm starting on 22Feb2018.
 
+## Day 25
+Dealing with events. We used click events to learn how to put middleware, essentially, into an event listener to choose how to respond to click(s). 
+
 ## Day 24 
 Sticky navigation with javascript. Say you want the nav bar to always be at the top of what the viewer sees rather than the top of the page? You can use the offset value and move that as the user scrolls Y. Simple, but maybe hard to think of. 
 
