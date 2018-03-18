@@ -1,6 +1,9 @@
 # javascript30
 This repo is my trip through [Wes Bos javascript30](https://javascript30.com/). I'm starting on 22Feb2018.
 
+## Day 24 
+Sticky navigation with javascript. Say you want the nav bar to always be at the top of what the viewer sees rather than the top of the page? You can use the offset value and move that as the user scrolls Y. Simple, but maybe hard to think of. 
+
 ## Day 23
 I forgot to push yesterday, so I am doing a double update today, I guess.
 Synthesizing different speech sounds today. It was neat. 
