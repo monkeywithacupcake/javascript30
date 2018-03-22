@@ -1,11 +1,14 @@
 # javascript30
 This repo is my trip through [Wes Bos javascript30](https://javascript30.com/). I'm starting on 22Feb2018.
 
+## Day 28
+Video Speed Controller today. I love the concept of interactively changing the speed of video playback rate because I do change video speed a lot, and the interface to do that is limiting. Again, it did not work on my python http.server
+
 ## Day 27 
 Click and drag mouse events. I can see this being useful for user input, but not immediately.
 
 ## Day 26
-We did some pretty for the nav bar today. I think I may be able to use this in projects, unlike a lot of the  neat audio and video and other interactive bits. Woot. 
+We did some pretty for the nav bar today. It is kinda badass to have a fancy little menu. I think I may be able to use this in projects, unlike a lot of the  neat audio and video and other interactive bits. Woot. 
 
 ## Day 25
 Dealing with events. We used click events to learn how to put middleware, essentially, into an event listener to choose how to respond to click(s). 
